@@ -1,0 +1,386 @@
+##########################################################################################################
+## Template ###############################################################################################
+##########################################################################################################
+## CLASS: NAME
+##CreatureClass=
+##AttackRate=.25
+##HitDie=
+##Armor=
+##Weapons=Combat Maneuver|Basic melee weapons|Grenade|Samll arms
+##Tools=
+##SavingThrows=
+##Skills=
+##FEATURES BY LEVEL
+##Features=
+##Features1=
+##Features2=
+##Features3=
+##Features4=
+##Features5=
+##Features6=
+##Features7=
+##Features8=
+##Features9=
+##Features10=
+##Features11=
+##Features12=
+##Features13=
+##Features14=
+##Features15=
+##Features16=
+##Features17=
+##Features18=
+##Features19=
+##Features20=
+##SPELL CASTER TYPE
+##SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|WIS
+##SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|INT
+##SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|CHA
+##SPELLS AVAILABLE
+##Spells0=
+##Spells1=
+##Spells2=
+##Spells3=
+##Spells4=
+##Spells5=
+##Spells6=
+##Spells7=
+##Spells8=
+##Spells9=
+##SPELLS PER DAY
+##PerDay1=
+##PerDay2=
+##PerDay3=
+##PerDay4=
+##PerDay5=
+##PerDay6=
+##PerDay7=
+##PerDay8=
+##PerDay9=
+##PerDay10=
+##PerDay11=
+##PerDay12=
+##PerDay13=
+##PerDay14=
+##PerDay15=
+##PerDay16=
+##PerDay17=
+##PerDay18=
+##PerDay19=
+##PerDay20=
+## END CLASS: NAME
+##########################################################################################################
+##########################################################################################################
+
+##########################################################################################################
+##########################################################################################################
+## Attackrate cheat sheet
+## level 1  2  3  4  5
+## .25 = 0, 0, 0, 1, 1
+## .50 = 0, 1, 1, 2, 2
+## .75 = 0, 1, 2, 3, 4
+## 1   = 1, 2, 3, 4, 5
+##########################################################################################################
+##########################################################################################################
+
+// STARFINDER CORE BOOK
+## CLASS: ENVOY
+CreatureClass=Envoy
+AttackRate=.75
+HitDie=6
+Armor=Light Armor
+Weapons=Combat Maneuver|Basic melee weapons|Grenade|Samll arms
+Tools=
+GoodSaves=Ref|Will
+Skills= Acrobatics|Athlectics|Bluff|Computers|Culture|Diplomacy|Disguise|Engineering|Intimidate|Medecine|Piloting|Profession|Sense Motive|Sleight of Hand|Stealth
+##FEATURES BY LEVEL
+Features= Envoy
+Features1=Envoy improvisation 1|Expertise (1d6)|Skil expertise
+Features2=Envoy improvisation 2
+Features3=Expertise talent|Weapon specialization
+Features4=Envoy improvisation 3
+Features5=Expertise (1d6+1)|Skill expertise
+Features6=Envoy improvisation 4
+Features7=Expertise talent 2
+Features8=Envoy improvisation 5
+Features9=Expertise (1d6+2)|Skill expertise
+Features10=Envoy improvisation 6
+Features11=Expertise talent 3
+Features12=Envoy improvisation 7
+Features13=Expertise (1d8+2)|Skill expertise
+Features14=Envoy improvisation 8
+Features15=Expertise talent 4
+Features16=Envoy improvisation 9
+Features17=Expertise (1d8+3)|Skill expertise
+Features18=Envoy improvisation 10
+Features19=Expertise talent 5
+Features20=Envoy improvisation 11
+## END CLASS: Envoy
+
+## CLASS: MECHANIC
+CreatureClass=Mechanic
+AttackRate=.75
+HitDie=6
+Armor=Light Armor
+Weapons=Combat Maneuver|Basic melee weapons|Grenade|Samll arms
+Tools=
+GoodSaves=Fort|Ref
+Skills= Athletics|Computers|Culture|Engineering|Medicine|Perception|Physical Science|Piloting|ProfessionCHA|ProfessionINT|ProfessionWIS
+##FEATURES BY LEVEL
+Features= Mechanic
+Features1=Artificial Intelligence|Bypass 1|Custom Rig
+Features2=Mechanic Trick 1
+Features3=Overload|Weapon Specialization
+Features4=Mechanic Trick 2
+Features5=Bypass 2|Remote Hack
+Features6=Mechanic Trick 3
+Features7=Expert Rig|Miracle Worker 1
+Features8=Mechanic Trick 4
+Features9=Bypass 3|Override
+Features10=Mechanic Trick 5
+Features11=Coordinated Assault 1|Miracle Worker 2
+Features12=Mechanic Trick 6
+Features13=Bypass 4|Advanced Rig
+Features14=Mechanic Trick 7
+Features15=Miracle Worker 3
+Features16=Mechanic Trick 8
+Features17=Bypass 5|Control Net|Coordinated Assault 2
+Features18=Mechanic Trick 9
+Features19=Ghost in the Machine|Miracle Worker 4|Superior Rig
+Features20=Mechanic Trick 10|Bypass 6|Tech Master
+## END CLASS: MECHANIC
+
+## CLASS: MYSTIC
+CreatureClass=Mystic
+AttackRate=.75
+HitDie=6
+Variants=Akashic|Empath|Healer|MindBreaker|Overlord|Star Shaman|Xenodruid
+Armor=Light Armor
+Weapons=Combat Maneuver|Basic melee weapons|Samll arms
+Tools=
+GoodSaves=Will
+Skills= Athlectics|Bluff|Culture|Diplomacy|Disguise|Intimidate|Life Science|Medecine|Mysticism|Perception|Profession|Sense Motive|Survival
+##FEATURES BY LEVEL
+Features=Mystic
+Features1=
+Features2=
+Features3=
+Features4=
+Features5=
+Features6=
+Features7=
+Features8=
+Features9=
+Features10=
+Features11=
+Features12=
+Features13=
+Features14=
+Features15=
+Features16=
+Features17=
+Features18=
+Features19=
+Features20=
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|WIS
+#SPELLS AVAILABLE
+Spells0=Daze|Detect Affliction|Detect Magic|Fatigue|Ghost Sound|Grave Words|Psychokinetic Hand|Stabilize|Telekinetic Projectile|Telepathic Message|Token Spell
+Spells1=Charm Person|Command|Confusion,Lesser|Detect Thoughts|Disguise,Self|Fear|Identify|Keen Sense|Life Bubble|Mind Link|Mind Thrust|Mystic Cure|Reflecting Armor|Remove Condition,Lesser|Share Language|Wisp Ally
+Spells2=Augury|Command Undead|Darkvision|Daze Monster|Fog Cloud|Force Blast|Hold Person|Hurl Forcedisk|Inflict Pain|Mind Thrust|Remove condition|Restoration,Lesser|See Invisibility|Shiel Other|Spider Climb|Status|Zone of Truth
+Spells3=Bestow Curse|Charm Monster|Clairaudience/clairvoyance|Deep Slumber|Dispel Magic|Fear|Haste|Hologram Memory|Irradiate|Mind Thrust|Mystic Cure|Psychokinetic Strangulation|Ray of Exhaustion|Remove Affliction|Resistant Armor,Lesser|Slow|Speeak with Death|Suggestion|Synaptic Pulse|Tongues
+Spells4=Animate dead|Confusion|Cosmic Eddy|Death Ward|Discern Lies|Dismissal|Divination|Enervation|Fear|Hold Monster|Mind Probe|Mind Thrust|Mystic Cure|Planar Binding|Reincarnate|Remove Radioactivity|Resistant Armor|Restoration|Telepathic Bond
+Spells5=Break Enhancement|Call Cosmos|Command,Greater|Commune with Nature|Contact other Plane|Crush Skull|Dismissal|Dispel Magic,Greater|Dominate Person|Feeblemind|Mind Thrust|Modify Memory|Mystic Cure|Mystic Cure,Mass|Planar Binding|Raise Dead|Remove Condition,Greater|Resistant Aegis|Restrocognition|Synaptic Pulse,Greater|Telepathy|Waves of Fatigue
+Spells6=Control Gravity|Control Undead|Enshrining Refuge|Ethereal Jaunt|Flesh to Stone|Gravitational Singularity|Inflict Pain,Mass|Mind Thrust|Mystic Cure|Mystic Cure,Mass|Planar Binding|Plane Shift|Psychic Surgery|Regenerate|Resistant Armor,Greater|Shadow Walk|Snuff Life|Subjective Reality|Suggestion,Mass|Telepathic Jaunt|true Seeing|Vision
+#SPELLS PER DAY
+PerDay1=20|2
+PerDay2=20|2
+PerDay3=20|3
+PerDay4=20|3|2
+PerDay5=20|4|2
+PerDay6=20|4|3
+PerDay7=20|4|3|2
+PerDay8=20|4|4|2
+PerDay9=20|5|4|3
+PerDay10=20|5|4|3|2
+PerDay11=20|5|4|4|2
+PerDay12=20|5|5|4|3
+PerDay13=20|5|5|4|3|2
+PerDay14=20|5|5|4|4|2
+PerDay15=20|5|5|5|4|3
+PerDay16=20|5|5|5|4|3|2
+PerDay17=20|5|5|5|4|4|2
+PerDay18=20|5|5|5|5|4|3
+PerDay19=20|5|5|5|5|5|4
+PerDay20=20|5|5|5|5|5|5
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|3
+Known3=6|4
+Known4=6|4|2
+Known5=6|4|3
+Known6=6|4|4
+Known7=6|5|4|2
+Known8=6|5|4|3
+Known9=6|5|4|4
+Known10=6|5|5|4|2
+Known11=6|6|5|4|3
+Known12=6|6|5|4|4
+Known13=6|6|5|5|4|2
+Known14=6|6|6|5|4|3
+Known15=6|6|6|5|4|4
+Known16=6|6|6|5|5|4|2
+Known17=6|6|6|6|5|4|3
+Known18=6|6|6|6|5|4|4
+Known19=6|6|6|6|5|5|4
+Known20=6|6|6|6|6|5|5
+##END CLASS: MYSTIC
+
+## CLASS VARIANT: MYSTIC: AKASHIC
+CreatureClass=Akashic
+AttackRate=.75
+HitDie=6
+CR=
+Variants=Akashic|Empath|Healer|MindBreaker|Overlord|Star Shaman|Xenodruid
+VariantOfClass=Mystic
+Armor=Light Armor
+Weapons=Combat Maneuver|Basic melee weapons|Samll arms
+GoodSaves=Will
+Skills=
+Tools=
+## FEATURES BY LEVEL
+Features=Akashic
+Features1=Akashic
+Features3=Access Askashi Record
+Features6=Peer into the Futur
+Features8=Divine Strike
+Features9=Mind Probe
+Features12=Telepathic Memory
+Features15=Memory Place
+Features18=Glean Spell
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|WIS
+#SPELLS AVAILABLE
+Spells0=Daze|Detect Affliction|Detect Magic|Fatigue|Ghost Sound|Grave Words|Psychokinetic Hand|Stabilize|Telekinetic Projectile|Telepathic Message|Token Spell
+Spells1=Charm Person|Command|Confusion,Lesser|Detect Thoughts|Disguise,Self|Fear|Identify|Keen Sense|Life Bubble|Mind Link|Mind Thrust|Mystic Cure|Reflecting Armor|Remove Condition,Lesser|Share Language|Wisp Ally
+Spells2=Augury|Command Undead|Darkvision|Daze Monster|Fog Cloud|Force Blast|Hold Person|Hurl Forcedisk|Inflict Pain|Mind Thrust|Remove condition|Restoration,Lesser|See Invisibility|Shiel Other|Spider Climb|Status|Zone of Truth
+Spells3=Bestow Curse|Charm Monster|Clairaudience/clairvoyance|Deep Slumber|Dispel Magic|Fear|Haste|Hologram Memory|Irradiate|Mind Thrust|Mystic Cure|Psychokinetic Strangulation|Ray of Exhaustion|Remove Affliction|Resistant Armor,Lesser|Slow|Speeak with Death|Suggestion|Synaptic Pulse|Tongues
+Spells4=Animate dead|Confusion|Cosmic Eddy|Death Ward|Discern Lies|Dismissal|Divination|Enervation|Fear|Hold Monster|Mind Probe|Mind Thrust|Mystic Cure|Planar Binding|Reincarnate|Remove Radioactivity|Resistant Armor|Restoration|Telepathic Bond
+Spells5=Break Enhancement|Call Cosmos|Command,Greater|Commune with Nature|Contact other Plane|Crush Skull|Dismissal|Dispel Magic,Greater|Dominate Person|Feeblemind|Mind Thrust|Modify Memory|Mystic Cure|Mystic Cure,Mass|Planar Binding|Raise Dead|Remove Condition,Greater|Resistant Aegis|Restrocognition|Synaptic Pulse,Greater|Telepathy|Waves of Fatigue
+Spells6=Control Gravity|Control Undead|Enshrining Refuge|Ethereal Jaunt|Flesh to Stone|Gravitational Singularity|Inflict Pain,Mass|Mind Thrust|Mystic Cure|Mystic Cure,Mass|Planar Binding|Plane Shift|Psychic Surgery|Regenerate|Resistant Armor,Greater|Shadow Walk|Snuff Life|Subjective Reality|Suggestion,Mass|Telepathic Jaunt|true Seeing|Vision
+#SPELLS PER DAY
+PerDay1=20|2
+PerDay2=20|2
+PerDay3=20|3
+PerDay4=20|3|2
+PerDay5=20|4|2
+PerDay6=20|4|3
+PerDay7=20|4|3|2
+PerDay8=20|4|4|2
+PerDay9=20|5|4|3
+PerDay10=20|5|4|3|2
+PerDay11=20|5|4|4|2
+PerDay12=20|5|5|4|3
+PerDay13=20|5|5|4|3|2
+PerDay14=20|5|5|4|4|2
+PerDay15=20|5|5|5|4|3
+PerDay16=20|5|5|5|4|3|2
+PerDay17=20|5|5|5|4|4|2
+PerDay18=20|5|5|5|5|4|3
+PerDay19=20|5|5|5|5|5|4
+PerDay20=20|5|5|5|5|5|5
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|3
+Known3=6|4
+Known4=6|4|2
+Known5=6|4|3
+Known6=6|4|4
+Known7=6|5|4|2
+Known8=6|5|4|3
+Known9=6|5|4|4
+Known10=6|5|5|4|2
+Known11=6|6|5|4|3
+Known12=6|6|5|4|4
+Known13=6|6|5|5|4|2
+Known14=6|6|6|5|4|3
+Known15=6|6|6|5|4|4
+Known16=6|6|6|5|5|4|2
+Known17=6|6|6|6|5|4|3
+Known18=6|6|6|6|5|4|4
+Known19=6|6|6|6|5|5|4
+Known20=6|6|6|6|6|5|5
+#CONNECTIONS
+DomainAkashic=Identify||Augury||Tongues||Divination||Contact other Plane||Vision||
+## END CLASS: MYSTIC: AKASHIC
+
+## CLASS: Operative
+CreatureClass=Operative
+AttackRate=.25
+HitDie=6
+Armor=Light Armor
+Weapons=Combat Maneuver|Basic Melee Weapons|Sniper Weapons|Small Arms
+Tools=
+GoodSaves=Ref|Wil
+SavingThrows=
+Skills=Acrobatics|Athletics|Bluff|Computers|Culture|Disguise|Engineering|Intimidate|Medicine|Perception|Piloting|Profession|Sense Motive|Sleight of Hand|Stealth|Survival
+##FEATURES BY LEVEL
+Features=Operative
+Features1=Operatives Edge 1|Specialization|Trick Attack (+1d4)
+Features2=Evasion|Operative Exploit 1
+Features3=Operatives Edge 2|Quick Movement (+10 ft.)|Trick Attack (+1d8)|Weapon Specialization
+Features4=Operative Exploit 2|Debilitating Trick
+Features5=Specialization Exploit|Trick Attack (+3d8)
+Features6=Operative Exploit 3
+Features7=Operatives Edge 3|Specialization Skill Mastery|Trick Attack (+4d8)|Uncanny Agility
+Features8=Operative Exploit 4|Triple Attack
+Features9=Quick Movement (+20 ft.)|Trick Attack (+5d8)
+Features10=Operative Exploit 5
+Features11=Operatives Edge 4|Specialization Power|Trick Attack (+6d8)
+Features12=Operative Exploit 6
+Features13=Quad Attack|Trick Attack (+7d8)
+Features14=Operative Exploit 7
+Features15=Operatives Edge 5|Quick Movement (+30 ft.)|Trick Attack (+8d8)
+Features16=Operative Exploit 8
+Features17=Double Debilitation|Trick Attack (+9d8)
+Features18=Operative Exploit 9
+Features19=Operatives Edge 6|Trick Attack (+10d8)
+Features20=Operative Exploit 10|Supreme Operative
+##SPELL CASTER TYPE
+##SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|WIS
+##SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|INT
+##SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|CHA
+##SPELLS AVAILABLE
+##Spells0=
+##Spells1=
+##Spells2=
+##Spells3=
+##Spells4=
+##Spells5=
+##Spells6=
+##Spells7=
+##Spells8=
+##Spells9=
+##SPELLS PER DAY
+##PerDay1=
+##PerDay2=
+##PerDay3=
+##PerDay4=
+##PerDay5=
+##PerDay6=
+##PerDay7=
+##PerDay8=
+##PerDay9=
+##PerDay10=
+##PerDay11=
+##PerDay12=
+##PerDay13=
+##PerDay14=
+##PerDay15=
+##PerDay16=
+##PerDay17=
+##PerDay18=
+##PerDay19=
+##PerDay20=
+## END CLASS: NAME
+################################################################################################
+################################################################################################
+## MONSTER TYPES
