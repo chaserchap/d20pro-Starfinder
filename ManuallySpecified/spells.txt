@@ -1,1 +1,145 @@
+##Mystic Spell List##
+##Level 0##
+Daze
+Detect Affliction
+Detect Magic
+Fatigue
+Ghost Sound
+Grave Words
+Psychokinetic Hand
+Stabilize
+Telekinetic Projectile
+Telepathic Message
+Token Spell
 
+##Level 1##
+Charm Person
+Command
+Confusion, Lesser
+Detect Radiation
+Detect Thoughts
+Disguise Self
+Fear
+Identify
+Keen Senses
+Life Bubble
+Mind Link
+Mind Thrust
+Mystic Cure
+Reflecting Armor
+Remove Condition, Lesser
+Share Language
+Wisp Ally
+
+##Level 2##
+Augury
+Command Undead
+Darkvision
+Daze Monster
+Fear2
+Fog Cloud
+Force Blast
+Hold Person
+Hurl Forcedisk
+Inflict Pain
+Mind Thrust2
+Mystic Cure2
+Remove Condition
+Restoration, Lesser
+See Invisibility
+Shield Other
+Spider Climb
+Status
+Zone of Truth
+
+##Level 3##
+Bestow Curse
+Charm Monster
+Clairaudience/Clairvoyance
+Deep Slumber
+Dispel Magic
+Fear3
+Haste
+Hologram Memory
+Irradiate
+Mind Thrust3
+Mystic Cure3
+Psychokinetic Strangulation
+Ray of Exhaustion
+Remove Affliction
+Resistant Armor, Lesser
+Slow
+Speak with Dead
+Suggestion
+Synaptic Pulse
+Tongues
+
+##Level 4##
+Animate Dead
+Confusion
+Cosmic Eddy
+Death Ward
+Discern Lies
+Dismissal
+Divination
+Enervation
+Fear4
+Hold Monster
+Mind Probe
+Mind Thrust4
+Mystic Cure4
+Planar Binding
+Reincarnate
+Remove Radioactivity
+Resistant Armor
+Restoration
+Telepathic Bond
+
+##Level 5##
+Break Enchantment
+Call Cosmos
+Command, Greater
+Commune with Nature
+Contact other Plane
+Crush Skull
+Dismissal
+Dispel Magic, Greater
+Dominate Person
+Feeblemind
+Mind Thrust5
+Modify Memory
+Mystic Cure5
+Mystic Cure, Mass
+Planar Binding2
+Raise Dead
+Remove Condition, Greater
+Telepathy
+Waves of Fatigue
+
+##Level 6##
+Control Gravity
+Control Undead
+Enshrining Refuge
+Etheral Jaunt
+Flesh to Stone
+Gravatational Singularity
+Inflict Pain, Mass
+Mind Thrust6
+Mystic Cure6
+Mystic Cure, Mass2
+Planar Barrier
+Planar Binding3
+Plane Shift
+Psychic Surgery
+Regenerate
+Resistant Armor, Greater
+Shadow Walk
+Snuff Life
+Subjective Reality
+Suggestion, Mass
+Telepathic Jaunt
+True Seeing
+Vision
+
+##Technomancer Spell List##
+##Level  0##
