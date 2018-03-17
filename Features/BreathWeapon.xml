@@ -1,0 +1,114 @@
+<com.d20pro.temp_extraction.plugin.feature.model.FeatureBehavior>
+  <attacks class="list"/>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <feature class="com.d20pro.temp_extraction.plugin.feature.model.Feature">
+    <cost class="int">1</cost>
+    <featureName class="string">Breath Weapon (Acid)</featureName>
+    <featureType class="string">Feature</featureType>
+    <level class="byte">1</level>
+  </feature>
+  <featureEffects class="list">
+    <FeatureEffect>
+      <action class="string">Effect</action>
+      <actionType class="string">None</actionType>
+      <actionValue class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+        <expression class="string">dice(1d6)</expression>
+        <value class="int">0</value>
+        <valueOrExpression class="string">dice(1d6)</valueOrExpression>
+      </actionValue>
+      <applyImmediately class="boolean">true</applyImmediately>
+      <applyOnSavePassed class="boolean">false</applyOnSavePassed>
+      <cancelCondition class="com.d20pro.temp_extraction.plugin.feature.model.enums.TriggerCancelCondition">None</cancelCondition>
+      <cancelForTargetIfSaved class="boolean">false</cancelForTargetIfSaved>
+      <delayType class="com.d20pro.temp_extraction.plugin.feature.model.enums.TriggerDelayType">NONE</delayType>
+      <healing class="boolean">false</healing>
+      <ignore class="boolean">false</ignore>
+      <modifyGroup class="string">HP</modifyGroup>
+      <modifyTarget class="string">HP</modifyTarget>
+      <modifyType class="string">Acid</modifyType>
+      <processingId class="int">0</processingId>
+      <resolved class="boolean">false</resolved>
+      <rollEachTime class="boolean">false</rollEachTime>
+      <statuses class="set">
+        <string>None</string>
+      </statuses>
+      <targetCaster class="boolean">false</targetCaster>
+      <totalRecalculationRequired class="boolean">false</totalRecalculationRequired>
+      <trigger class="com.d20pro.temp_extraction.plugin.feature.model.enums.FeatureEffectTrigger">None</trigger>
+      <useSave class="com.d20pro.temp_extraction.plugin.feature.model.enums.FeatureEffectUseSave">Primary</useSave>
+    </FeatureEffect>
+  </featureEffects>
+  <featureUsage class="com.d20pro.temp_extraction.plugin.feature.model.usage.FeatureUsage">
+    <actionWord class="string">uses</actionWord>
+    <autoapply class="boolean">false</autoapply>
+    <description class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;</description>
+    <duration class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+      <value class="int">-1</value>
+      <valueOrExpression class="int">-1</valueOrExpression>
+    </duration>
+    <durationMode class="string">instant</durationMode>
+    <notes class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;</notes>
+    <primarySave class="com.d20pro.temp_extraction.plugin.feature.model.usage.SavingThrowDataHolder">
+      <delta class="int">0</delta>
+      <rolled class="boolean">false</rolled>
+      <saveDC class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+        <expression class="string">10+getCasterTotalLevels()+getConMod()</expression>
+        <value class="int">-1</value>
+        <valueOrExpression class="string">10+getCasterTotalLevels()+getConMod()</valueOrExpression>
+      </saveDC>
+      <saveResult class="string">half</saveResult>
+      <saveType class="byte">1</saveType>
+    </primarySave>
+    <secondarySave class="com.d20pro.temp_extraction.plugin.feature.model.usage.SavingThrowDataHolder">
+      <delta class="int">0</delta>
+      <rolled class="boolean">false</rolled>
+      <saveDC class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+        <value class="int">-1</value>
+        <valueOrExpression class="int">-1</valueOrExpression>
+      </saveDC>
+      <saveType class="byte">0</saveType>
+    </secondarySave>
+    <spellDataHolder class="com.d20pro.temp_extraction.plugin.feature.model.usage.FeatureUsageSpellDataHolder">
+      <castAs class="boolean">false</castAs>
+      <overcasting class="boolean">false</overcasting>
+      <skipCostDebiting class="boolean">false</skipCostDebiting>
+      <spellLevel class="int">0</spellLevel>
+      <useMult class="boolean">false</useMult>
+    </spellDataHolder>
+    <templateDataHolder class="com.d20pro.temp_extraction.plugin.feature.model.usage.MapTemplateDataHolder">
+      <templates class="list">
+        <com.d20pro.temp_extraction.plugin.feature.model.usage.MapTemplateCount>
+          <mapTemplate>
+            <cells class="set"/>
+            <color class="awt-color">
+              <red>230</red>
+              <green>26</green>
+              <blue>26</blue>
+              <alpha>128</alpha>
+            </color>
+            <mode class="int">1</mode>
+            <name class="string">30&apos; Cone</name>
+            <origin class="java.awt.Point">
+              <x>0</x>
+              <y>0</y>
+            </origin>
+            <useDuration class="boolean">false</useDuration>
+            <vector class="java.awt.Point">
+              <x>6</x>
+              <y>0</y>
+            </vector>
+            <visible class="boolean">true</visible>
+            <width class="int">1</width>
+          </mapTemplate>
+          <count>1</count>
+        </com.d20pro.temp_extraction.plugin.feature.model.usage.MapTemplateCount>
+      </templates>
+    </templateDataHolder>
+    <type class="string">At Will</type>
+  </featureUsage>
+  <group class="string">GM</group>
+  <idInLib class="int">0</idInLib>
+  <name class="string">Breath Weapon (Acid)</name>
+</com.d20pro.temp_extraction.plugin.feature.model.FeatureBehavior>

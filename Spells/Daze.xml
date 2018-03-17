@@ -1,0 +1,84 @@
+<com.d20pro.temp_extraction.plugin.feature.model.FeatureBehavior>
+  <attacks class="list"/>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <feature class="com.mindgene.d20.common.game.spell.GenericSpell">
+    <cost class="int">0</cost>
+    <featureName class="string">Daze</featureName>
+    <featureType class="string">Spell</featureType>
+    <level class="byte">0</level>
+  </feature>
+  <featureEffects class="list">
+    <FeatureEffect>
+      <action class="string">Effect</action>
+      <actionType class="string">None</actionType>
+      <actionValue class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+        <value class="int">0</value>
+        <valueOrExpression class="int">0</valueOrExpression>
+      </actionValue>
+      <applyImmediately class="boolean">true</applyImmediately>
+      <applyOnSavePassed class="boolean">false</applyOnSavePassed>
+      <cancelCondition class="com.d20pro.temp_extraction.plugin.feature.model.enums.TriggerCancelCondition">None</cancelCondition>
+      <cancelForTargetIfSaved class="boolean">false</cancelForTargetIfSaved>
+      <delayType class="com.d20pro.temp_extraction.plugin.feature.model.enums.TriggerDelayType">NONE</delayType>
+      <healing class="boolean">false</healing>
+      <ignore class="boolean">false</ignore>
+      <modifyGroup class="string">Inert</modifyGroup>
+      <modifyTarget class="string">None</modifyTarget>
+      <modifyType class="string">None</modifyType>
+      <processingId class="int">0</processingId>
+      <resolved class="boolean">false</resolved>
+      <rollEachTime class="boolean">false</rollEachTime>
+      <statuses class="set">
+        <string>Dazed</string>
+      </statuses>
+      <targetCaster class="boolean">false</targetCaster>
+      <totalRecalculationRequired class="boolean">false</totalRecalculationRequired>
+      <trigger class="com.d20pro.temp_extraction.plugin.feature.model.enums.FeatureEffectTrigger">None</trigger>
+      <useSave class="com.d20pro.temp_extraction.plugin.feature.model.enums.FeatureEffectUseSave">Primary</useSave>
+    </FeatureEffect>
+  </featureEffects>
+  <featureUsage class="com.d20pro.temp_extraction.plugin.feature.model.usage.FeatureUsage">
+    <actionWord class="string">casts</actionWord>
+    <autoapply class="boolean">false</autoapply>
+    <description class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;div class=&quot;statblock-spell&quot; style=&quot;box-sizing: border-box; word-wrap: break-word; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;School&lt;/span&gt;&amp;nbsp;enchantment (&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Compulsion&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;compulsion&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Mind-Affecting&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;mind-affecting&lt;/a&gt;)&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Casting Time&lt;/span&gt;&amp;nbsp;1 standard action&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Range&lt;/span&gt;&amp;nbsp;close (25 ft. + 5 ft./2 levels)&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Targets&lt;/span&gt;&amp;nbsp;one humanoid creature of CR 3 or lower&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Duration&lt;/span&gt;&amp;nbsp;1 round&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Saving Throw&lt;/span&gt;&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Will&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Will&lt;/a&gt;&amp;nbsp;negates;&amp;nbsp;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Spell Resistance&lt;/span&gt;&amp;nbsp;yes&lt;/p&gt;&lt;/div&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;This spell short-circuits the mind of a humanoid creature with a CR of 3 or lower so that it is&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/conditions/#Dazed&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;dazed&lt;/a&gt;&amp;nbsp;(unable to take actions, but taking no penalty to&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Armor_Class_AC&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;AC&lt;/a&gt;). Humanoids of CR 4 or higher are not affected. After a creature has been&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/conditions/#Dazed&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;dazed&lt;/a&gt;&amp;nbsp;by this spell, it is immune to it for 1 minute.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description>
+    <duration class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+      <value class="int">1</value>
+      <valueOrExpression class="int">1</valueOrExpression>
+    </duration>
+    <durationMode class="string">round(s)</durationMode>
+    <notes class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;</notes>
+    <primarySave class="com.d20pro.temp_extraction.plugin.feature.model.usage.SavingThrowDataHolder">
+      <delta class="int">0</delta>
+      <rolled class="boolean">false</rolled>
+      <saveDC class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+        <expression class="string">10+getDexMod()</expression>
+        <value class="int">-1</value>
+        <valueOrExpression class="string">10+getDexMod()</valueOrExpression>
+      </saveDC>
+      <saveResult class="string">negates</saveResult>
+      <saveType class="byte">2</saveType>
+    </primarySave>
+    <secondarySave class="com.d20pro.temp_extraction.plugin.feature.model.usage.SavingThrowDataHolder">
+      <delta class="int">0</delta>
+      <rolled class="boolean">false</rolled>
+      <saveDC class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+        <value class="int">-1</value>
+        <valueOrExpression class="int">-1</valueOrExpression>
+      </saveDC>
+      <saveType class="byte">0</saveType>
+    </secondarySave>
+    <spellDataHolder class="com.d20pro.temp_extraction.plugin.feature.model.usage.FeatureUsageSpellDataHolder">
+      <castAs class="boolean">false</castAs>
+      <overcasting class="boolean">false</overcasting>
+      <skipCostDebiting class="boolean">false</skipCostDebiting>
+      <spellLevel class="int">0</spellLevel>
+      <useMult class="boolean">false</useMult>
+    </spellDataHolder>
+    <type class="string">At Will</type>
+  </featureUsage>
+  <group class="string">GM</group>
+  <idInLib class="int">0</idInLib>
+  <name class="string">Daze</name>
+</com.d20pro.temp_extraction.plugin.feature.model.FeatureBehavior>
