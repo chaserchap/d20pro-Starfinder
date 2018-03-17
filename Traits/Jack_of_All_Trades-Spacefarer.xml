@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">0260bd44-25e7-4f25-9218-a562532948f8</id>
+  <idInLib class="int">-1284238778</idInLib>
+  <level class="int">12</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You can do just about anything if you put your mind to it, and you never let lack of formal instruction stand between you and a task that needs handling. You can use all skills untrained, even if you could not normally do so, and when you roll a natural 20 while attempting a skill check for a skill in which you don’t have ranks, your bonus from eager dabbler increases to +4.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Jack of All Trades</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Spacefarer</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">ABSENT_IN_LIB</syncState>
+  <tab class="string">Theme Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

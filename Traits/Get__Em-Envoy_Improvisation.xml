@@ -1,0 +1,46 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">6c69ee13-9284-4145-8aa8-44a4a262f918</id>
+  <idInLib class="int">1312198909</idInLib>
+  <level class="int">0</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span id=&quot;Get_Em_Ex_language-dependent_mind-affecting_sense-dependent&quot; style=&quot;box-sizing: border-box;&quot;&gt;[&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Language-Dependent&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;language-dependent&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Mind-Affecting&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;mind-affecting&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Sense-Dependent&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;sense-dependent&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;As a move action, you can choose one enemy within 60 feet.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;Until the start of your next turn, you and your allies gain a +1&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Morale_Bonus&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;morale bonus&lt;/a&gt;&amp;nbsp;to attack rolls made against that enemy. The bonus persists even if the enemy moves beyond 60 feet or out of&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Line_of_Sight&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;line of sight&lt;/a&gt;&amp;nbsp;or hearing.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;At 6th level, you can spend 1 Resolve Point to grant this bonus to attack rolls and damage rolls against all enemies who are within 60 feet.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Get &apos;Em</name>
+  <pools class="list">
+    <com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
+      <ammunitionType class="string">none</ammunitionType>
+      <castAsClass class="string">None</castAsClass>
+      <castAsLevel class="int">0</castAsLevel>
+      <consumable class="boolean">false</consumable>
+      <customCost class="list"/>
+      <editable class="boolean">true</editable>
+      <enabled class="boolean">true</enabled>
+      <encrypted class="boolean">false</encrypted>
+      <features class="list">
+        <com.d20pro.temp_extraction.plugin.feature.model.Feature>
+          <cost class="int">1</cost>
+          <featureName class="string">Get &apos;Em</featureName>
+          <featureType class="string">Feature</featureType>
+          <level class="byte">0</level>
+        </com.d20pro.temp_extraction.plugin.feature.model.Feature>
+      </features>
+      <fetchFeaturesFromLibrary class="boolean">true</fetchFeaturesFromLibrary>
+      <idInLib class="int">0</idInLib>
+      <isInitialized class="boolean">false</isInitialized>
+      <name class="string">At Will</name>
+      <remainingCharges class="int">10</remainingCharges>
+      <templateName class="string">At Will</templateName>
+      <totalCharges class="int">10</totalCharges>
+      <usageType class="com.d20pro.temp_extraction.plugin.feature.model.enums.PoolUsageTypes">AT_WILL</usageType>
+      <useHigherLevel class="boolean">false</useHigherLevel>
+    </com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
+  </pools>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Envoy Improvisation</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">SYNCHRONIZED</syncState>
+  <tab class="string">Envoy Improvisation</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

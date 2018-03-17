@@ -4,10 +4,10 @@
   <enabled class="boolean">true</enabled>
   <encrypted class="boolean">false</encrypted>
   <feature class="com.mindgene.d20.common.game.spell.GenericSpell">
-    <cost class="int">0</cost>
+    <cost class="int">1</cost>
     <featureName class="string">Daze</featureName>
     <featureType class="string">Spell</featureType>
-    <level class="byte">0</level>
+    <level class="byte">1</level>
   </feature>
   <featureEffects class="list">
     <FeatureEffect>
@@ -78,7 +78,7 @@
     </spellDataHolder>
     <type class="string">At Will</type>
   </featureUsage>
-  <group class="string">GM</group>
+  <group class="string">Starfinder Core</group>
   <idInLib class="int">0</idInLib>
   <name class="string">Daze</name>
 </com.d20pro.temp_extraction.plugin.feature.model.FeatureBehavior>

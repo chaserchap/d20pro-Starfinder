@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">c43fb6e5-2884-46c0-9b16-46cbc5825b8b</id>
+  <idInLib class="int">1232570497</idInLib>
+  <level class="int">2</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You gain a bonus combat feat. You must meet all of that feat’s prerequisites.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Combat Trick</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Operative</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">MODIFIED</syncState>
+  <tab class="string">Operative Exploit</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

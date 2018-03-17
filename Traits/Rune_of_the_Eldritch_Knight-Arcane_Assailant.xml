@@ -1,0 +1,46 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">2f96ce90-5feb-48a2-878e-d5abc58c6a4a</id>
+  <idInLib class="int">797432847</idInLib>
+  <level class="int">1</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You can imbue a weapon with a magic sigil, the rune of the eldritch knight, allowing the weapon to act as a magic weapon for the purposes of bypassing&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Damage_Reduction_DR&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(48, 87, 164); text-decoration: none; font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;DR&lt;/a&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;and affecting&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Incorporeal&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(48, 87, 164); text-decoration: none; font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;incorporeal&lt;/a&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;creatures. This takes 10 minutes, and you can imbue only a single weapon at a time. If you imbue a new weapon with the rune of the eldritch knight, any previously imbued weapon loses this benefit. When calculating the&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Hit_Points&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(48, 87, 164); text-decoration: none; font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Hit Points&lt;/a&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;and hardness of a weapon imbued with the rune of the eldritch knight, treat its item level as 5 higher.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Rune of the Eldritch Knight</name>
+  <pools class="list">
+    <com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
+      <ammunitionType class="string">none</ammunitionType>
+      <castAsClass class="string">None</castAsClass>
+      <castAsLevel class="int">0</castAsLevel>
+      <consumable class="boolean">false</consumable>
+      <customCost class="list"/>
+      <editable class="boolean">true</editable>
+      <enabled class="boolean">true</enabled>
+      <encrypted class="boolean">false</encrypted>
+      <features class="list">
+        <com.d20pro.temp_extraction.plugin.feature.model.Feature>
+          <cost class="int">0</cost>
+          <featureName class="string">Rune of the Eldritch Knight</featureName>
+          <featureType class="string">Feature</featureType>
+          <level class="byte">0</level>
+        </com.d20pro.temp_extraction.plugin.feature.model.Feature>
+      </features>
+      <fetchFeaturesFromLibrary class="boolean">true</fetchFeaturesFromLibrary>
+      <idInLib class="int">0</idInLib>
+      <isInitialized class="boolean">false</isInitialized>
+      <name class="string">At Will</name>
+      <remainingCharges class="int">10</remainingCharges>
+      <templateName class="string">At Will</templateName>
+      <totalCharges class="int">10</totalCharges>
+      <usageType class="com.d20pro.temp_extraction.plugin.feature.model.enums.PoolUsageTypes">AT_WILL</usageType>
+      <useHigherLevel class="boolean">false</useHigherLevel>
+    </com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
+  </pools>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Arcane Assailant</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">MODIFIED</syncState>
+  <tab class="string">Primary Style Technique</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

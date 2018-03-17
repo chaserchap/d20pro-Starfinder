@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">13a6f8c3-48df-4f7b-8aa3-0fe20417badb</id>
+  <idInLib class="int">-1406871307</idInLib>
+  <level class="int">0</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;A dragonkin can form a permanent bond with one willing non-dragonkin creature. Once this bond is made, a dragonkin cannot form another partner bond unless its current partner dies. A dragonkin and its partner can communicate with each other as if they both had&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://www.starjammersrd.com/game-mastering/combat/#Telepathy&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(48, 87, 164); text-decoration: none; font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;telepathy&lt;/a&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;with a range of 100 feet. In combat, when a dragonkin is within 30 feet of its partner, both creatures roll initiative checks separately and treat the higher result as the result for both of them.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Partner Bond</name>
+  <pools class="list"/>
+  <product class="string">Alien Archive</product>
+  <source class="string">Dragonkin</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">SYNCHRONIZED</syncState>
+  <tab class="string">Racial Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

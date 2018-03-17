@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">67784bda-3b3e-489f-b6df-b2a01cc51023</id>
+  <idInLib class="int">-1687652150</idInLib>
+  <level class="int">0</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p style=&quot;orphans: auto; widows: auto;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;Your unshakable devotion to a philosophy or religion forms the core of your personality.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You are a member of an organized religion or similar association. Your belief, whether it has been a part of you since childhood or it came to you later in life, is an integral part of your character. You might travel the stars proselytizing your deity, or your church might have sent you out on a specific holy (or unholy) mission. No matter what obstacles life puts in your way, you always have the conviction of your beliefs to fall back on.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: &apos;Lucida Grande&apos;;&quot;&gt;Ability Modifier:&lt;/b&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &apos;Lucida Grande&apos;; font-size: small;&quot;&gt;&amp;nbsp;+1 WIS&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Priest</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Theme</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">SYNCHRONIZED</syncState>
+  <tab class="string">Theme</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

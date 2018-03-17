@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">ad3adaf9-378f-4dec-8682-ea05660bcab8</id>
+  <idInLib class="int">-867939962</idInLib>
+  <level class="int">0</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Benefit&lt;/span&gt;: You gain a +3 insight bonus to checks intimidate.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Special&lt;/span&gt;: You can take this feat multiple times. Its effects don’t stack. Each time you take this feat, it applies to a new skill.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Skill Focus (Intimidate)</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">General Feat</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">SYNCHRONIZED</syncState>
+  <tab class="string">General Feat</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">0d7cf724-917d-4e8f-abab-34e7ea071725</id>
+  <idInLib class="int">-257317972</idInLib>
+  <level class="int">6</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;In your journeys, you’ve picked up quite a few Tricks about all sorts of things, even if you haven’t formally studied them, and you can often use this logic and intuition to your advantage. You gain a +2 bonus to skill checks if you don’t have any ranks in that skill. This ability does not allow you to attempt checks for trained-only skills.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Eager Dabbler</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Spacefarer</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">MODIFIED</syncState>
+  <tab class="string">Theme Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

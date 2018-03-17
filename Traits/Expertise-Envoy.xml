@@ -1,0 +1,46 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">04093c93-2b43-4d6c-b0b6-cba23271c635</id>
+  <idInLib class="int">511942886</idInLib>
+  <level class="int">1</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You are an expert at dealing with challenges that test your skills, be the challenges social or otherwise. At 1st level, when attempting a&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/skills/#Sense_Motive_Wis&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Sense Motive&lt;/a&gt;&amp;nbsp;check, you can roll 1d6 (your expertise die) and add the result of the roll to your check as an&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Insight_Bonus&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;insight bonus&lt;/a&gt;. You can use this and other expertise abilities as long as you have at least 1 Resolve Point remaining. At 5th level, anytime you roll your expertise die, you gain a +1 bonus to the result. At 9th, 17th, and 20th levels, this bonus increases by 1. At 13th level, you roll 1d8 as your expertise die instead of 1d6.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;Beginning at 9th level, you have even greater expertise with skills to which you can add your expertise die that you have also selected with the&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/feats/general-feats/skill-focus/&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Skill Focus&lt;/a&gt;&amp;nbsp;feat. For each such skill, once per day when rolling your expertise die to add to that skill, you may roll the expertise die twice and take the better of the two results.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Expertise</name>
+  <pools class="list">
+    <com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
+      <ammunitionType class="string">none</ammunitionType>
+      <castAsClass class="string">None</castAsClass>
+      <castAsLevel class="int">0</castAsLevel>
+      <consumable class="boolean">false</consumable>
+      <customCost class="list"/>
+      <editable class="boolean">true</editable>
+      <enabled class="boolean">true</enabled>
+      <encrypted class="boolean">false</encrypted>
+      <features class="list">
+        <com.d20pro.temp_extraction.plugin.feature.model.Feature>
+          <cost class="int">0</cost>
+          <featureName class="string">Skill Expertise (Sense Motive)</featureName>
+          <featureType class="string">Feature</featureType>
+          <level class="byte">0</level>
+        </com.d20pro.temp_extraction.plugin.feature.model.Feature>
+      </features>
+      <fetchFeaturesFromLibrary class="boolean">true</fetchFeaturesFromLibrary>
+      <idInLib class="int">0</idInLib>
+      <isInitialized class="boolean">false</isInitialized>
+      <name class="string">At Will</name>
+      <remainingCharges class="int">10</remainingCharges>
+      <templateName class="string">At Will</templateName>
+      <totalCharges class="int">10</totalCharges>
+      <usageType class="com.d20pro.temp_extraction.plugin.feature.model.enums.PoolUsageTypes">AT_WILL</usageType>
+      <useHigherLevel class="boolean">false</useHigherLevel>
+    </com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
+  </pools>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Envoy</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">MODIFIED</syncState>
+  <tab class="string">Class Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

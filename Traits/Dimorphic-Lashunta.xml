@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">54b7a82f-72c6-4193-9a63-f3795771fd1a</id>
+  <idInLib class="int">-1644474566</idInLib>
+  <level class="int">0</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;All lashuntas gain +2&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/the-basics/ability-scores/#Charisma_Cha&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Charisma&lt;/a&gt;&amp;nbsp;at character creation.&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;em style=&quot;box-sizing: border-box;&quot;&gt;Korasha&lt;/em&gt;&amp;nbsp;lashuntas are muscular (+2&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/the-basics/ability-scores/#Strength_Str&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Strength&lt;/a&gt;&amp;nbsp;at character creation) but often brash and unobservant (–2&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/the-basics/ability-scores/#Wisdom_Wis&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Wisdom&lt;/a&gt;&amp;nbsp;at character creation).&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;em style=&quot;box-sizing: border-box;&quot;&gt;Damaya&lt;/em&gt;&amp;nbsp;lashuntas are typically clever and well-spoken (+2&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/the-basics/ability-scores/#Intelligence_Int&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Intelligence&lt;/a&gt;&amp;nbsp;at character creation) but somewhat delicate (–2&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/the-basics/ability-scores/#Constitution_Con&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Constitution&lt;/a&gt;&amp;nbsp;at character creation).&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Dimorphic</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Lashunta</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">SYNCHRONIZED</syncState>
+  <tab class="string">Racial Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

@@ -4,53 +4,43 @@
   <enabled class="boolean">true</enabled>
   <encrypted class="boolean">false</encrypted>
   <equipped class="boolean">false</equipped>
-  <id class="string">a04d04a3-d581-486c-9645-750176b80b86</id>
-  <idInLib class="int">-1245414370</idInLib>
-  <level class="int">0</level>
+  <id class="string">ede965e3-9b50-4988-a01b-1acf9c472374</id>
+  <idInLib class="int">1451699183</idInLib>
+  <level class="int">1</level>
   <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
   <maxUses class="byte">0</maxUses>
-  <name class="string">Breath Weapon</name>
+  <name class="string">Inspiring Boost</name>
   <pools class="list">
     <com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
       <ammunitionType class="string">none</ammunitionType>
       <castAsClass class="string">None</castAsClass>
       <castAsLevel class="int">0</castAsLevel>
       <consumable class="boolean">false</consumable>
-      <customCost class="list">
-        <com.d20pro.temp_extraction.plugin.feature.util.SerializablePair>
-          <fst class="com.d20pro.temp_extraction.plugin.feature.model.Feature">
-            <cost class="int">1</cost>
-            <featureName class="string">Breath Weapon (Acid)</featureName>
-            <featureType class="string">Feature</featureType>
-            <level class="byte">1</level>
-          </fst>
-          <snd class="int">1</snd>
-        </com.d20pro.temp_extraction.plugin.feature.util.SerializablePair>
-      </customCost>
+      <customCost class="list"/>
       <editable class="boolean">true</editable>
       <enabled class="boolean">true</enabled>
       <encrypted class="boolean">false</encrypted>
       <features class="list">
         <com.d20pro.temp_extraction.plugin.feature.model.Feature>
-          <cost class="int">1</cost>
-          <featureName class="string">Breath Weapon (Acid)</featureName>
+          <cost class="int">0</cost>
+          <featureName class="string">Inspiring Boost</featureName>
           <featureType class="string">Feature</featureType>
-          <level class="byte">1</level>
+          <level class="byte">0</level>
         </com.d20pro.temp_extraction.plugin.feature.model.Feature>
       </features>
       <fetchFeaturesFromLibrary class="boolean">true</fetchFeaturesFromLibrary>
       <idInLib class="int">0</idInLib>
       <isInitialized class="boolean">false</isInitialized>
       <name class="string">At Will</name>
-      <remainingCharges class="int">1</remainingCharges>
+      <remainingCharges class="int">10</remainingCharges>
       <templateName class="string">At Will</templateName>
-      <totalCharges class="int">1</totalCharges>
-      <usageType class="com.d20pro.temp_extraction.plugin.feature.model.enums.PoolUsageTypes">PER_INIT</usageType>
+      <totalCharges class="int">10</totalCharges>
+      <usageType class="com.d20pro.temp_extraction.plugin.feature.model.enums.PoolUsageTypes">AT_WILL</usageType>
       <useHigherLevel class="boolean">false</useHigherLevel>
     </com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
   </pools>
-  <product class="string">source</product>
-  <source class="string">Starfinder Core</source>
-  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">MODIFIED</syncState>
-  <tab class="string">source</tab>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Envoy Improvisation</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">SYNCHRONIZED</syncState>
+  <tab class="string">Envoy Improvisation</tab>
 </com.mindgene.d20.common.game.trait.GenericTrait>

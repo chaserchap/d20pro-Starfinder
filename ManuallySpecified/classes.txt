@@ -94,27 +94,10 @@ Tools=
 GoodSaves=Ref|Will
 Skills= Acrobatics|Athlectics|Bluff|Computers|Culture|Diplomacy|Disguise|Engineering|Intimidate|Medecine|Piloting|Profession|Sense Motive|Sleight of Hand|Stealth
 ##FEATURES BY LEVEL
-Features= Envoy
-Features1=Envoy improvisation 1|Expertise (1d6)|Skil expertise
-Features2=Envoy improvisation 2
-Features3=Expertise talent|Weapon specialization
-Features4=Envoy improvisation 3
-Features5=Expertise (1d6+1)|Skill expertise
-Features6=Envoy improvisation 4
-Features7=Expertise talent 2
-Features8=Envoy improvisation 5
-Features9=Expertise (1d6+2)|Skill expertise
-Features10=Envoy improvisation 6
-Features11=Expertise talent 3
-Features12=Envoy improvisation 7
-Features13=Expertise (1d8+2)|Skill expertise
-Features14=Envoy improvisation 8
-Features15=Expertise talent 4
-Features16=Envoy improvisation 9
-Features17=Expertise (1d8+3)|Skill expertise
-Features18=Envoy improvisation 10
-Features19=Expertise talent 5
-Features20=Envoy improvisation 11
+Features=Envoy
+Features1=Envoy Improvisation|Expertise|Skill Expertise
+Features3=Weapon Specialization
+Features7=Expertise Talent
 ## END CLASS: Envoy
 
 ## CLASS: MECHANIC
@@ -128,26 +111,17 @@ GoodSaves=Fort|Ref
 Skills= Athletics|Computers|Culture|Engineering|Medicine|Perception|Physical Science|Piloting|ProfessionCHA|ProfessionINT|ProfessionWIS
 ##FEATURES BY LEVEL
 Features= Mechanic
-Features1=Artificial Intelligence|Bypass 1|Custom Rig
-Features2=Mechanic Trick 1
+Features1=Artificial Intelligence|Bypass|Custom Rig
+Features2=Mechanic Trick
 Features3=Overload|Weapon Specialization
-Features4=Mechanic Trick 2
-Features5=Bypass 2|Remote Hack
-Features6=Mechanic Trick 3
-Features7=Expert Rig|Miracle Worker 1
-Features8=Mechanic Trick 4
-Features9=Bypass 3|Override
-Features10=Mechanic Trick 5
-Features11=Coordinated Assault 1|Miracle Worker 2
-Features12=Mechanic Trick 6
-Features13=Bypass 4|Advanced Rig
-Features14=Mechanic Trick 7
-Features15=Miracle Worker 3
-Features16=Mechanic Trick 8
-Features17=Bypass 5|Control Net|Coordinated Assault 2
-Features18=Mechanic Trick 9
-Features19=Ghost in the Machine|Miracle Worker 4|Superior Rig
-Features20=Mechanic Trick 10|Bypass 6|Tech Master
+Features5=Remote Hack
+Features7=Expert Rig|Miracle Worker
+Features9=Override
+Features11=Coordinated Assault
+Features13=Advanced Rig
+Features17=Control Net
+Features19=Ghost in the Machine|Superior Rig
+Features20=Tech Master
 ## END CLASS: MECHANIC
 
 ## CLASS: MYSTIC
@@ -314,73 +288,94 @@ DomainAkashic=Identify||Augury||Tongues||Divination||Contact other Plane||Vision
 
 ## CLASS: Operative
 CreatureClass=Operative
-AttackRate=.25
+AttackRate=.75
 HitDie=6
+CR=
+Variants=Explorer
 Armor=Light Armor
 Weapons=Combat Maneuver|Basic Melee Weapons|Sniper Weapons|Small Arms
 Tools=
-GoodSaves=Ref|Wil
+GoodSaves=Ref|Will
 SavingThrows=
 Skills=Acrobatics|Athletics|Bluff|Computers|Culture|Disguise|Engineering|Intimidate|Medicine|Perception|Piloting|Profession|Sense Motive|Sleight of Hand|Stealth|Survival
 ##FEATURES BY LEVEL
 Features=Operative
-Features1=Operatives Edge 1|Specialization|Trick Attack (+1d4)
-Features2=Evasion|Operative Exploit 1
-Features3=Operatives Edge 2|Quick Movement (+10 ft.)|Trick Attack (+1d8)|Weapon Specialization
-Features4=Operative Exploit 2|Debilitating Trick
-Features5=Specialization Exploit|Trick Attack (+3d8)
-Features6=Operative Exploit 3
-Features7=Operatives Edge 3|Specialization Skill Mastery|Trick Attack (+4d8)|Uncanny Agility
-Features8=Operative Exploit 4|Triple Attack
-Features9=Quick Movement (+20 ft.)|Trick Attack (+5d8)
-Features10=Operative Exploit 5
-Features11=Operatives Edge 4|Specialization Power|Trick Attack (+6d8)
-Features12=Operative Exploit 6
+Features1=Operative's Edge|Specialization|Trick Attack (+1d4)
+Features2=Evasion|Operative Exploit
+Features3=Quick Movement|Trick Attack (+1d8)|Weapon Specialization
+Features4=Debilitating Trick
+Features5=Trick Attack (+3d8)
+Features7=Trick Attack (+4d8)|Uncanny Agility
+Features8=Triple Attack
+Features9=Trick Attack (+5d8)
+Features11=Trick Attack (+6d8)
 Features13=Quad Attack|Trick Attack (+7d8)
-Features14=Operative Exploit 7
-Features15=Operatives Edge 5|Quick Movement (+30 ft.)|Trick Attack (+8d8)
-Features16=Operative Exploit 8
+Features15=Quick Movement|Trick Attack (+8d8)
 Features17=Double Debilitation|Trick Attack (+9d8)
-Features18=Operative Exploit 9
-Features19=Operatives Edge 6|Trick Attack (+10d8)
-Features20=Operative Exploit 10|Supreme Operative
-##SPELL CASTER TYPE
-##SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|WIS
-##SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|INT
-##SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Prepared|CHA
-##SPELLS AVAILABLE
-##Spells0=
-##Spells1=
-##Spells2=
-##Spells3=
-##Spells4=
-##Spells5=
-##Spells6=
-##Spells7=
-##Spells8=
-##Spells9=
-##SPELLS PER DAY
-##PerDay1=
-##PerDay2=
-##PerDay3=
-##PerDay4=
-##PerDay5=
-##PerDay6=
-##PerDay7=
-##PerDay8=
-##PerDay9=
-##PerDay10=
-##PerDay11=
-##PerDay12=
-##PerDay13=
-##PerDay14=
-##PerDay15=
-##PerDay16=
-##PerDay17=
-##PerDay18=
-##PerDay19=
-##PerDay20=
-## END CLASS: NAME
-################################################################################################
-################################################################################################
+Features19=Trick Attack (+10d8)
+Features20=Supreme Operative
+## END CLASS: OPERATIVE
+
+## CLASS VARIANT: Operative: Explorer
+CreatureClass=Explorer
+AttackRate=.75
+HitDie=6
+CR=
+VariantOfClass=Operative
+Armor=Light Armor
+Weapons=Combat Maneuver|Basic Melee Weapons|Sniper Weapons|Small Arms
+Tools=
+GoodSaves=Ref|Will
+SavingThrows=
+Skills=Acrobatics|Athletics|Bluff|Computers|Culture|Disguise|Engineering|Intimidate|Medicine|Perception|Piloting|Profession|Sense Motive|Sleight of Hand|Stealth|Survival
+##FEATURES BY LEVEL
+Features=Explorer
+Features1=Explorer Skills
+Features5=Ever Vigilant
+Features7=Explorer Skill Mastery
+Features11=Into the Unknown
+## END CLASS: Explorer
+
+## CLASS: Soldier
+CreatureClass=Soldier
+AttackRate=1
+HitDie=7
+Variants=Arcane Assailant
+Armor=Light Armor|Heavy Armor
+Weapons=Combat Maneuver|Basic Melee Weapons|Advanced Melee Weapons|Small Arms|Longarms|Sniper Weapons|Grenades
+Tools=
+GoodSaves=Fort|Will
+Skills=Acrobatics|Athletics|Engineering|Intimidate|Medicine|Piloting|Profession: CHA|Profession: INT|Profession: WIS|Survival
+##FEATURES BY LEVEL
+Features=Soldier
+Features1=Primary Fighting Style
+Features2=Combat Feat
+Features3=Gear Boost|Weapon Specialization
+Features9=Secondary Fighting Style|Secondary Style Technique
+Features11=Soldier's Onslaught
+Features20=Kill Shot
+## END CLASS: SOLDIER
+
+## CLASS VARIANT: Soldier: Arcane Assailant
+CreatureClass=Arcane Assailant
+AttackRate=1
+HitDie=7
+VariantOfClass=Soldier
+Armor=Light Armor|Heavy Armor
+Weapons=Combat Maneuver|Basic Melee Weapons|Advanced Melee Weapons|Small Arms|Longarms|Sniper Weapons|Grenades
+Tools=
+GoodSaves=Fort|Will
+Skills=Acrobatics|Athletics|Engineering|Intimidate|Medicine|Piloting|Profession: CHA|Profession: INT|Profession: WIS|Survival
+##FEATURES BY LEVEL
+Features=Arcane Assailant
+Features1=Rune of the Eldritch Knight
+Features5=Secret of the Magi
+Features9=Power of Legend
+Features13=Secret of the Archmagi
+Features17=Arcane Attack
+## END CLASS: ARCANE ASSAILANT
+
+##########################################################################################################
+##########################################################################################################
+
 ## MONSTER TYPES

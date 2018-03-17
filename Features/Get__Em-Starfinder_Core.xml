@@ -1,0 +1,54 @@
+<com.d20pro.temp_extraction.plugin.feature.model.FeatureBehavior>
+  <attacks class="list"/>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <feature class="com.d20pro.temp_extraction.plugin.feature.model.Feature">
+    <cost class="int">1</cost>
+    <featureName class="string">Get &apos;Em</featureName>
+    <featureType class="string">Feature</featureType>
+    <level class="byte">0</level>
+  </feature>
+  <featureEffects class="list"/>
+  <featureUsage class="com.d20pro.temp_extraction.plugin.feature.model.usage.FeatureUsage">
+    <actionWord class="string">yells</actionWord>
+    <autoapply class="boolean">false</autoapply>
+    <description class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span id=&quot;Get_Em_Ex_language-dependent_mind-affecting_sense-dependent&quot; style=&quot;box-sizing: border-box;&quot;&gt;[&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Language-Dependent&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;language-dependent&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Mind-Affecting&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;mind-affecting&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Sense-Dependent&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;sense-dependent&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;As a move action, you can choose one enemy within 60 feet.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;Until the start of your next turn, you and your allies gain a +1&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Morale_Bonus&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;morale bonus&lt;/a&gt;&amp;nbsp;to attack rolls made against that enemy. The bonus persists even if the enemy moves beyond 60 feet or out of&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/game-mastering/combat/#Line_of_Sight&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;line of sight&lt;/a&gt;&amp;nbsp;or hearing.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;box-sizing: border-box;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;At 6th level, you can spend 1 Resolve Point to grant this bonus to attack rolls and damage rolls against all enemies who are within 60 feet.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</description>
+    <duration class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+      <value class="int">-1</value>
+      <valueOrExpression class="int">-1</valueOrExpression>
+    </duration>
+    <durationMode class="string">instant</durationMode>
+    <notes class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;</notes>
+    <primarySave class="com.d20pro.temp_extraction.plugin.feature.model.usage.SavingThrowDataHolder">
+      <delta class="int">0</delta>
+      <rolled class="boolean">false</rolled>
+      <saveDC class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+        <value class="int">-1</value>
+        <valueOrExpression class="int">-1</valueOrExpression>
+      </saveDC>
+      <saveType class="byte">0</saveType>
+    </primarySave>
+    <secondarySave class="com.d20pro.temp_extraction.plugin.feature.model.usage.SavingThrowDataHolder">
+      <delta class="int">0</delta>
+      <rolled class="boolean">false</rolled>
+      <saveDC class="com.d20pro.temp_extraction.plugin.feature.model.ValueOrExpression">
+        <value class="int">-1</value>
+        <valueOrExpression class="int">-1</valueOrExpression>
+      </saveDC>
+      <saveType class="byte">0</saveType>
+    </secondarySave>
+    <spellDataHolder class="com.d20pro.temp_extraction.plugin.feature.model.usage.FeatureUsageSpellDataHolder">
+      <castAs class="boolean">false</castAs>
+      <overcasting class="boolean">false</overcasting>
+      <skipCostDebiting class="boolean">false</skipCostDebiting>
+      <spellLevel class="int">0</spellLevel>
+      <useMult class="boolean">false</useMult>
+    </spellDataHolder>
+    <type class="string">At Will</type>
+  </featureUsage>
+  <group class="string">Starfinder Core</group>
+  <idInLib class="int">0</idInLib>
+  <logEntry class="string">All allies gain a +1 morale bonus made against the targeted enemy.</logEntry>
+  <name class="string">Get &apos;Em</name>
+</com.d20pro.temp_extraction.plugin.feature.model.FeatureBehavior>

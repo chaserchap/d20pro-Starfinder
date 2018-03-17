@@ -7,7 +7,7 @@
   <id class="string">dfda307e-1a76-4ccf-a64b-3bb94d244696</id>
   <idInLib class="int">-489359013</idInLib>
   <level class="int">0</level>
-  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;Lashuntas gain the following Spell-Like abilities:&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;At will: daze, psychokinetic hand 1/day: detect thoughts&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;See Spell-Like Abilities on page 262. The caster level for these effects is equal to the lashunta’s level.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
   <maxUses class="byte">0</maxUses>
   <name class="string">Lashunta Magic</name>
   <pools class="list">
@@ -23,15 +23,15 @@
       <features class="list">
         <com.mindgene.d20.common.game.spell.GenericSpell>
           <cost class="int">0</cost>
-          <featureName class="string">Daze</featureName>
+          <featureName class="string">Psychokinetic Hand</featureName>
           <featureType class="string">Spell</featureType>
           <level class="byte">0</level>
         </com.mindgene.d20.common.game.spell.GenericSpell>
         <com.mindgene.d20.common.game.spell.GenericSpell>
-          <cost class="int">0</cost>
-          <featureName class="string">Psychokinetic Hand</featureName>
+          <cost class="int">1</cost>
+          <featureName class="string">Daze</featureName>
           <featureType class="string">Spell</featureType>
-          <level class="byte">0</level>
+          <level class="byte">1</level>
         </com.mindgene.d20.common.game.spell.GenericSpell>
       </features>
       <fetchFeaturesFromLibrary class="boolean">true</fetchFeaturesFromLibrary>
@@ -72,8 +72,8 @@
       <useHigherLevel class="boolean">false</useHigherLevel>
     </com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
   </pools>
-  <product class="string">source</product>
-  <source class="string">source</source>
-  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">SYNCHRONIZED</syncState>
-  <tab class="string">source</tab>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Lashunta</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">MODIFIED</syncState>
+  <tab class="string">Racial Feature</tab>
 </com.mindgene.d20.common.game.trait.GenericTrait>
