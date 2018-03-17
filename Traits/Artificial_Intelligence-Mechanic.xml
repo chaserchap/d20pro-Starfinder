@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">84f12d21-4f0a-4975-ba2d-b977d820c533</id>
+  <idInLib class="int">-648178239</idInLib>
+  <level class="int">1</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You construct an Artificial intelligence (or AI), a sophisticated program of self-motivated code that you can access for help in a variety of endeavors. This AI is the product of your own genius, far more advanced and complicated than any available for sale to consumers (though it falls short of being truly self-aware), and only you know the secrets of its creation and operation. Your AI can take one of two forms: a drone or an exocortex. You must pick one of these forms upon taking your first level of mechanic, and once this choice is made, it cannot be changed.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Artificial Intelligence</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Mechanic</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">MODIFIED</syncState>
+  <tab class="string">Class Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

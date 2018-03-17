@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">0729646e-849c-4e5b-b4bc-08d35c31e4a5</id>
+  <idInLib class="int">-2047113089</idInLib>
+  <level class="int">2</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;As you gain experience, you learn Tricks that allow you to perform wonders of engineering, aid in electronic infiltrations, and optimize gear. While some of these are things you learn, others are small cybernetic enhancements you make to yourself (none of which have a price or count against your&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/equipment/augmentations/&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;augmentation&lt;/a&gt;&amp;nbsp;limits). Some Tricks require the use of a custom rig or other gear.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You learn your first mechanic trick at 2nd level, and you learn an additional mechanic trick at 4th level and every 2 levels thereafter. If a mechanic trick allows an opponent a saving throw to resist its effects, the DC is equal to 10 + half your mechanic level + your&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/the-basics/ability-scores/#Intelligence_Int&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Intelligence&lt;/a&gt;&amp;nbsp;modifier. If a mechanic trick requires an opponent to attempt a skill check, the DC is equal to 10 + 1-1/2 × your class level + your&amp;nbsp;&lt;a href=&quot;http://www.starfindersrd.com/the-basics/ability-scores/#Intelligence_Int&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Intelligence&lt;/a&gt;&amp;nbsp;modifier.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;Unless otherwise specified, you can’t learn mechanic tricks more than once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Mechanic Trick</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Mechanic</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">ABSENT_IN_LIB</syncState>
+  <tab class="string">Class Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

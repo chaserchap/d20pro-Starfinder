@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">cc91a0c7-d346-4d88-a40a-f442116bfc36</id>
+  <idInLib class="int">-1660397735</idInLib>
+  <level class="int">0</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You are a well-trained soldier of fortune who works well with your companions in battle.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;Whether you take jobs that match your ethical beliefs or you fight for anyone who can afford your services, you are a hired gun. You might take pride in your past accomplishments, proudly displaying trophies of your kills, or you might be laden with guilt over being the sole survivor of a mission gone terribly wrong. You most likely work with other mercenaries and are familiar with the methodologies of military actions all across the galaxy.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Lucida Grande&quot; size=&quot;2&quot;&gt;Ability Modifier: +1 STR&lt;/font&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Mercenary</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Theme</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">ABSENT_IN_LIB</syncState>
+  <tab class="string">Theme Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

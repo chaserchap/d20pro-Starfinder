@@ -1,0 +1,46 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">035ec735-7e9a-4efa-964d-0a7417b03b2a</id>
+  <idInLib class="int">-681227530</idInLib>
+  <level class="int">1</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;Your exocortex provides you with enhanced combat ability, granting you proficiency with heavy armor and longarms. At 3rd level, you gain weapon specialization in longarms just as if your class granted proficiency. As a move action during combat, you can designate a foe for your exocortex to track. As long as that target is in sight, the exocortex feeds you telemetry, vulnerabilities, and combat tactics, allowing you to make attacks against that target as if your base attack bonus from your mechanic levels were equal to your mechanic level. Designating another target causes you to immediately lose this bonus against the previous target.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Combat Tracking</name>
+  <pools class="list">
+    <com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
+      <ammunitionType class="string">none</ammunitionType>
+      <castAsClass class="string">None</castAsClass>
+      <castAsLevel class="int">0</castAsLevel>
+      <consumable class="boolean">false</consumable>
+      <customCost class="list"/>
+      <editable class="boolean">true</editable>
+      <enabled class="boolean">true</enabled>
+      <encrypted class="boolean">false</encrypted>
+      <features class="list">
+        <com.d20pro.temp_extraction.plugin.feature.model.Feature>
+          <cost class="int">1</cost>
+          <featureName class="string">Combat Tracking</featureName>
+          <featureType class="string">Feature</featureType>
+          <level class="byte">1</level>
+        </com.d20pro.temp_extraction.plugin.feature.model.Feature>
+      </features>
+      <fetchFeaturesFromLibrary class="boolean">true</fetchFeaturesFromLibrary>
+      <idInLib class="int">0</idInLib>
+      <isInitialized class="boolean">false</isInitialized>
+      <name class="string">At Will</name>
+      <remainingCharges class="int">10</remainingCharges>
+      <templateName class="string">At Will</templateName>
+      <totalCharges class="int">10</totalCharges>
+      <usageType class="com.d20pro.temp_extraction.plugin.feature.model.enums.PoolUsageTypes">AT_WILL</usageType>
+      <useHigherLevel class="boolean">false</useHigherLevel>
+    </com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
+  </pools>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Exocortex</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">MODIFIED</syncState>
+  <tab class="string">AI Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

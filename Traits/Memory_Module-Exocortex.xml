@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">5a906429-3a9e-4a93-97c6-090c5dd55778</id>
+  <idInLib class="int">-933913218</idInLib>
+  <level class="int">1</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You can use your exocortex’s memory module to enhance your own knowledge. Once per day, as a reaction while not in combat, you can reroll a failed skill check to recall knowledge. In addition, your exocortex grants you the&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://www.starfindersrd.com/feats/general-feats/skill-focus/&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(48, 87, 164); text-decoration: none; font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Skill Focus&lt;/a&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;feat as a bonus feat. You can’t use your exocortex’s memory module while combat tracking is activated. Every time you gain a mechanic level, you can rebuild your exocortex’s memory module, replacing the exocortex’s bonus&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://www.starfindersrd.com/feats/general-feats/skill-focus/&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(48, 87, 164); text-decoration: none; font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Skill Focus&lt;/a&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;feat with&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://www.starfindersrd.com/feats/general-feats/skill-focus/&quot; style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(48, 87, 164); text-decoration: none; font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Skill Focus&lt;/a&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;in a different skill.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Memory Module</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Exocortex</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">ABSENT_IN_LIB</syncState>
+  <tab class="string">AI Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

@@ -6,7 +6,7 @@
 ##AttackRate=.25
 ##HitDie=
 ##Armor=
-##Weapons=Combat Maneuver|Basic melee weapons|Grenade|Samll arms
+##Weapons=Combat Maneuver|Basic Melee Weapons|Grenade|Small arms
 ##Tools=
 ##SavingThrows=
 ##Skills=
@@ -89,10 +89,10 @@ CreatureClass=Envoy
 AttackRate=.75
 HitDie=6
 Armor=Light Armor
-Weapons=Combat Maneuver|Basic melee weapons|Grenade|Samll arms
+Weapons=Combat Maneuver|Basic Melee Weapons|Grenade|Small arms
 Tools=
 GoodSaves=Ref|Will
-Skills= Acrobatics|Athlectics|Bluff|Computers|Culture|Diplomacy|Disguise|Engineering|Intimidate|Medecine|Piloting|Profession|Sense Motive|Sleight of Hand|Stealth
+Skills= Acrobatics|Athlectics|Bluff|Computers|Culture|Diplomacy|Disguise|Engineering|Intimidate|Medecine|Piloting|Profession: Actor|Profession: Artist|Profession: Comedian|Profession: Con Artist|Profession: Courtesan|Profession: Dancer|Profession: Musician|Profession: Orator|Profession: Poet|Profession: Politician|Profession: Video Personality|Profession: Writer|Profession: Accountant|Profession: Archaeologist|Profession: Architect|Profession: Corporate Professional|Profession: Electrician|Profession: Lab Technician|Profession: Lawyer|Profession: Mathematician|Profession: Philosopher|Profession: Professor|Profession: Psychologist|Profession: Vidgamer|Profession: Bounty Hunter|Profession: Cook|Profession: Counselor|Profession: Dockworker|Profession: Farmer|Profession: Gambler|Profession: General Contractor|Profession: Herbalist|Profession: Maintenance Worker|Profession: Manager|Profession: Mercenary|Profession: Merchant|Profession: Miner|Profession: Smuggler|Sense Motive|Sleight of Hand|Stealth
 ##FEATURES BY LEVEL
 Features=Envoy
 Features1=Envoy Improvisation|Expertise|Skill Expertise
@@ -104,11 +104,12 @@ Features7=Expertise Talent
 CreatureClass=Mechanic
 AttackRate=.75
 HitDie=6
+Variants=Exocortex|Drone
 Armor=Light Armor
-Weapons=Combat Maneuver|Basic melee weapons|Grenade|Samll arms
+Weapons=Combat Maneuver|Basic Melee Weapons|Grenade|Small Arms
 Tools=
 GoodSaves=Fort|Ref
-Skills= Athletics|Computers|Culture|Engineering|Medicine|Perception|Physical Science|Piloting|ProfessionCHA|ProfessionINT|ProfessionWIS
+Skills= Athletics|Computers|Culture|Engineering|Medicine|Perception|Physical Science|Piloting|Profession: Actor|Profession: Artist|Profession: Comedian|Profession: Con Artist|Profession: Courtesan|Profession: Dancer|Profession: Musician|Profession: Orator|Profession: Poet|Profession: Politician|Profession: Video Personality|Profession: Writer|Profession: Accountant|Profession: Archaeologist|Profession: Architect|Profession: Corporate Professional|Profession: Electrician|Profession: Lab Technician|Profession: Lawyer|Profession: Mathematician|Profession: Philosopher|Profession: Professor|Profession: Psychologist|Profession: Vidgamer|Profession: Bounty Hunter|Profession: Cook|Profession: Counselor|Profession: Dockworker|Profession: Farmer|Profession: Gambler|Profession: General Contractor|Profession: Herbalist|Profession: Maintenance Worker|Profession: Manager|Profession: Mercenary|Profession: Merchant|Profession: Miner|Profession: Smuggler
 ##FEATURES BY LEVEL
 Features= Mechanic
 Features1=Artificial Intelligence|Bypass|Custom Rig
@@ -124,16 +125,36 @@ Features19=Ghost in the Machine|Superior Rig
 Features20=Tech Master
 ## END CLASS: MECHANIC
 
+## CLASS VARIANT: MECHANIC: EXOCORTEX
+CreatureClass=Exocortex
+AttackRate=.75
+HitDie=6
+VariantOfClass
+Armor=Light Armor
+Weapons=Combat Maneuver|Basic Melee Weapons|Grenade|Small Arms
+Tools=
+GoodSaves=Fort|Ref
+Skills= Athletics|Computers|Culture|Engineering|Medicine|Perception|Physical Science|Piloting|Profession: Actor|Profession: Artist|Profession: Comedian|Profession: Con Artist|Profession: Courtesan|Profession: Dancer|Profession: Musician|Profession: Orator|Profession: Poet|Profession: Politician|Profession: Video Personality|Profession: Writer|Profession: Accountant|Profession: Archaeologist|Profession: Architect|Profession: Corporate Professional|Profession: Electrician|Profession: Lab Technician|Profession: Lawyer|Profession: Mathematician|Profession: Philosopher|Profession: Professor|Profession: Psychologist|Profession: Vidgamer|Profession: Bounty Hunter|Profession: Cook|Profession: Counselor|Profession: Dockworker|Profession: Farmer|Profession: Gambler|Profession: General Contractor|Profession: Herbalist|Profession: Maintenance Worker|Profession: Manager|Profession: Mercenary|Profession: Merchant|Profession: Miner|Profession: Smuggler
+##FEATURES BY LEVEL
+Features= Mechanic
+Features1=Exocortex|Combat Tracking|Memory Module
+Features5=Wireless Hack
+Features7=Exocortex Mods
+Features10=Twin Tracking
+Features15=Multitasking
+Features20=Quad Tracking
+## END CLASS: MECHANIC: EXOCORTEX
+
 ## CLASS: MYSTIC
 CreatureClass=Mystic
 AttackRate=.75
 HitDie=6
 Variants=Akashic|Empath|Healer|MindBreaker|Overlord|Star Shaman|Xenodruid
 Armor=Light Armor
-Weapons=Combat Maneuver|Basic melee weapons|Samll arms
+Weapons=Combat Maneuver|Basic Melee Weapons|Small Arms
 Tools=
 GoodSaves=Will
-Skills= Athlectics|Bluff|Culture|Diplomacy|Disguise|Intimidate|Life Science|Medecine|Mysticism|Perception|Profession|Sense Motive|Survival
+Skills= Athlectics|Bluff|Culture|Diplomacy|Disguise|Intimidate|Life Science|Medecine|Mysticism|Perception|Profession: Actor|Profession: Artist|Profession: Comedian|Profession: Con Artist|Profession: Courtesan|Profession: Dancer|Profession: Musician|Profession: Orator|Profession: Poet|Profession: Politician|Profession: Video Personality|Profession: Writer|Profession: Accountant|Profession: Archaeologist|Profession: Architect|Profession: Corporate Professional|Profession: Electrician|Profession: Lab Technician|Profession: Lawyer|Profession: Mathematician|Profession: Philosopher|Profession: Professor|Profession: Psychologist|Profession: Vidgamer|Profession: Bounty Hunter|Profession: Cook|Profession: Counselor|Profession: Dockworker|Profession: Farmer|Profession: Gambler|Profession: General Contractor|Profession: Herbalist|Profession: Maintenance Worker|Profession: Manager|Profession: Mercenary|Profession: Merchant|Profession: Miner|Profession: Smuggler|Sense Motive|Survival
 ##FEATURES BY LEVEL
 Features=Mystic
 Features1=
@@ -217,7 +238,7 @@ CR=
 Variants=Akashic|Empath|Healer|MindBreaker|Overlord|Star Shaman|Xenodruid
 VariantOfClass=Mystic
 Armor=Light Armor
-Weapons=Combat Maneuver|Basic melee weapons|Samll arms
+Weapons=Combat Maneuver|Basic Melee Weapons|Small arms
 GoodSaves=Will
 Skills=
 Tools=
@@ -297,7 +318,7 @@ Weapons=Combat Maneuver|Basic Melee Weapons|Sniper Weapons|Small Arms
 Tools=
 GoodSaves=Ref|Will
 SavingThrows=
-Skills=Acrobatics|Athletics|Bluff|Computers|Culture|Disguise|Engineering|Intimidate|Medicine|Perception|Piloting|Profession|Sense Motive|Sleight of Hand|Stealth|Survival
+Skills=Acrobatics|Athletics|Bluff|Computers|Culture|Disguise|Engineering|Intimidate|Medicine|Perception|Piloting|Profession: Actor|Profession: Artist|Profession: Comedian|Profession: Con Artist|Profession: Courtesan|Profession: Dancer|Profession: Musician|Profession: Orator|Profession: Poet|Profession: Politician|Profession: Video Personality|Profession: Writer|Profession: Accountant|Profession: Archaeologist|Profession: Architect|Profession: Corporate Professional|Profession: Electrician|Profession: Lab Technician|Profession: Lawyer|Profession: Mathematician|Profession: Philosopher|Profession: Professor|Profession: Psychologist|Profession: Vidgamer|Profession: Bounty Hunter|Profession: Cook|Profession: Counselor|Profession: Dockworker|Profession: Farmer|Profession: Gambler|Profession: General Contractor|Profession: Herbalist|Profession: Maintenance Worker|Profession: Manager|Profession: Mercenary|Profession: Merchant|Profession: Miner|Profession: Smuggler|Sense Motive|Sleight of Hand|Stealth|Survival
 ##FEATURES BY LEVEL
 Features=Operative
 Features1=Operative's Edge|Specialization|Trick Attack (+1d4)
@@ -327,7 +348,7 @@ Weapons=Combat Maneuver|Basic Melee Weapons|Sniper Weapons|Small Arms
 Tools=
 GoodSaves=Ref|Will
 SavingThrows=
-Skills=Acrobatics|Athletics|Bluff|Computers|Culture|Disguise|Engineering|Intimidate|Medicine|Perception|Piloting|Profession|Sense Motive|Sleight of Hand|Stealth|Survival
+Skills=Acrobatics|Athletics|Bluff|Computers|Culture|Disguise|Engineering|Intimidate|Medicine|Perception|Piloting|Profession: Actor|Profession: Artist|Profession: Comedian|Profession: Con Artist|Profession: Courtesan|Profession: Dancer|Profession: Musician|Profession: Orator|Profession: Poet|Profession: Politician|Profession: Video Personality|Profession: Writer|Profession: Accountant|Profession: Archaeologist|Profession: Architect|Profession: Corporate Professional|Profession: Electrician|Profession: Lab Technician|Profession: Lawyer|Profession: Mathematician|Profession: Philosopher|Profession: Professor|Profession: Psychologist|Profession: Vidgamer|Profession: Bounty Hunter|Profession: Cook|Profession: Counselor|Profession: Dockworker|Profession: Farmer|Profession: Gambler|Profession: General Contractor|Profession: Herbalist|Profession: Maintenance Worker|Profession: Manager|Profession: Mercenary|Profession: Merchant|Profession: Miner|Profession: Smuggler|Sense Motive|Sleight of Hand|Stealth|Survival
 ##FEATURES BY LEVEL
 Features=Explorer
 Features1=Explorer Skills
@@ -335,6 +356,7 @@ Features5=Ever Vigilant
 Features7=Explorer Skill Mastery
 Features11=Into the Unknown
 ## END CLASS: Explorer
+
 
 ## CLASS: Soldier
 CreatureClass=Soldier
@@ -345,7 +367,7 @@ Armor=Light Armor|Heavy Armor
 Weapons=Combat Maneuver|Basic Melee Weapons|Advanced Melee Weapons|Small Arms|Longarms|Sniper Weapons|Grenades
 Tools=
 GoodSaves=Fort|Will
-Skills=Acrobatics|Athletics|Engineering|Intimidate|Medicine|Piloting|Profession: CHA|Profession: INT|Profession: WIS|Survival
+Skills=Acrobatics|Athletics|Engineering|Intimidate|Medicine|Piloting|Profession: Actor|Profession: Artist|Profession: Comedian|Profession: Con Artist|Profession: Courtesan|Profession: Dancer|Profession: Musician|Profession: Orator|Profession: Poet|Profession: Politician|Profession: Video Personality|Profession: Writer|Profession: Accountant|Profession: Archaeologist|Profession: Architect|Profession: Corporate Professional|Profession: Electrician|Profession: Lab Technician|Profession: Lawyer|Profession: Mathematician|Profession: Philosopher|Profession: Professor|Profession: Psychologist|Profession: Vidgamer|Profession: Bounty Hunter|Profession: Cook|Profession: Counselor|Profession: Dockworker|Profession: Farmer|Profession: Gambler|Profession: General Contractor|Profession: Herbalist|Profession: Maintenance Worker|Profession: Manager|Profession: Mercenary|Profession: Merchant|Profession: Miner|Profession: Smuggler|Survival
 ##FEATURES BY LEVEL
 Features=Soldier
 Features1=Primary Fighting Style
@@ -365,7 +387,7 @@ Armor=Light Armor|Heavy Armor
 Weapons=Combat Maneuver|Basic Melee Weapons|Advanced Melee Weapons|Small Arms|Longarms|Sniper Weapons|Grenades
 Tools=
 GoodSaves=Fort|Will
-Skills=Acrobatics|Athletics|Engineering|Intimidate|Medicine|Piloting|Profession: CHA|Profession: INT|Profession: WIS|Survival
+Skills=Acrobatics|Athletics|Engineering|Intimidate|Medicine|Piloting|Profession: Actor|Profession: Artist|Profession: Comedian|Profession: Con Artist|Profession: Courtesan|Profession: Dancer|Profession: Musician|Profession: Orator|Profession: Poet|Profession: Politician|Profession: Video Personality|Profession: Writer|Profession: Accountant|Profession: Archaeologist|Profession: Architect|Profession: Corporate Professional|Profession: Electrician|Profession: Lab Technician|Profession: Lawyer|Profession: Mathematician|Profession: Philosopher|Profession: Professor|Profession: Psychologist|Profession: Vidgamer|Profession: Bounty Hunter|Profession: Cook|Profession: Counselor|Profession: Dockworker|Profession: Farmer|Profession: Gambler|Profession: General Contractor|Profession: Herbalist|Profession: Maintenance Worker|Profession: Manager|Profession: Mercenary|Profession: Merchant|Profession: Miner|Profession: Smuggler|Survival
 ##FEATURES BY LEVEL
 Features=Arcane Assailant
 Features1=Rune of the Eldritch Knight
@@ -375,7 +397,184 @@ Features13=Secret of the Archmagi
 Features17=Arcane Attack
 ## END CLASS: ARCANE ASSAILANT
 
+## CLASS: TECHNOMANCER
+CreatureClass=Technomancer
+AttackRate=.75
+HitDie=5
+Armor=Light Armor
+Weapons=Combat Maneuver|Basic Melee Weapons|Small Arms
+Tools=
+GoodSaves=Will
+Skills=Computers|Engineering|Life Science|Mysticism|Physical Science|Piloting|Profession: Actor|Profession: Artist|Profession: Comedian|Profession: Con Artist|Profession: Courtesan|Profession: Dancer|Profession: Musician|Profession: Orator|Profession: Poet|Profession: Politician|Profession: Video Personality|Profession: Writer|Profession: Accountant|Profession: Archaeologist|Profession: Architect|Profession: Corporate Professional|Profession: Electrician|Profession: Lab Technician|Profession: Lawyer|Profession: Mathematician|Profession: Philosopher|Profession: Professor|Profession: Psychologist|Profession: Vidgamer|Profession: Bounty Hunter|Profession: Cook|Profession: Counselor|Profession: Dockworker|Profession: Farmer|Profession: Gambler|Profession: General Contractor|Profession: Herbalist|Profession: Maintenance Worker|Profession: Manager|Profession: Mercenary|Profession: Merchant|Profession: Miner|Profession: Smuggler|Sleight of Hand
+##FEATURES BY LEVEL
+Features=Technomancer
+Features1=Spell Cache
+Features2=Magic Hack
+Features3=Spell Focus|Tech Lore|Weapon Specialization
+Features6=Cache Capacitor
+Features19=Resolve Attunement
+Features20=Fuse Spells
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|INT
+#SPELLS AVAILABLE
+Spells0=Dancing Lights|Daze|Detect Affliction|Detect Magic|Energy Ray|Ghost Sound|Mending|Psychokinetic Hand|Telepathic Message|Token Spell|Transfer Charge
+Spells1=Comprehend Languages|Detect Radiation|Detect Tech|Disguise Self|Erase|Flight|Grease|Hold Portal|Holographic Image|Identify|Jolting Surge|Keen Senses|Life Bubble|Magic Missile|Overheat|Supercharge Weapon|Unseen Servant
+#SPELLS PER DAY
+PerDay1=20|2
+PerDay2=20|2
+PerDay3=20|3
+PerDay4=20|3|2
+PerDay5=20|4|2
+PerDay6=20|4|3
+PerDay7=20|4|3|2
+PerDay8=20|4|4|2
+PerDay9=20|5|4|3
+PerDay10=20|5|4|3|2
+PerDay11=20|5|4|4|2
+PerDay12=20|5|4|4|3
+PerDay13=20|5|4|4|3|2
+PerDay14=20|5|4|4|4|2
+PerDay15=20|5|4|5|4|3
+PerDay16=20|5|4|5|4|3|1
+PerDay17=20|5|5|5|4|4|2
+PerDay18=20|5|5|5|5|4|3
+PerDay19=20|5|5|5|5|5|4
+PerDay20=20|5|5|5|5|5|5
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|3
+Known3=6|4
+Known4=6|4|2
+Known5=6|4|3
+Known6=6|4|4
+Known7=6|5|4|2
+Known8=6|5|4|3
+Known9=6|5|4|4
+Known10=6|5|5|4|2
+Known11=6|5|5|4|3
+Known12=6|5|5|4|4
+Known13=6|5|5|5|4|2
+Known14=6|5|5|5|4|3
+Known15=6|5|5|5|4|4
+Known16=6|5|5|5|5|4|2
+Known17=6|5|5|6|5|4|3
+Known18=6|5|5|6|5|4|4
+Known19=6|5|5|6|5|5|4
+Known20=6|5|5|6|6|5|5
+
 ##########################################################################################################
 ##########################################################################################################
 
 ## MONSTER TYPES
+
+## CLASS: ARISTOCRAT
+CreatureClass=Aristocrat
+AttackRate=.75
+GoodSaves=Will
+
+## CLASS: COMMONER
+CreatureClass=Commoner
+AttackRate=.5
+GoodSaves=
+
+## CLASS: EXPERT
+CreatureClass=Expert
+AttackRate=.75
+GoodSaves=Will
+
+## CLASS: WARRIOR
+CreatureClass=Warrior
+AttackRate=1
+GoodSaves=Fort
+
+## CLASS: ABERRATION
+CreatureClass=Aberration
+AttackRate=.75
+GoodSaves=Will
+
+## CLASS: ANIMAL
+CreatureClass=Animal
+AttackRate=.75
+GoodSaves=Fort, Ref
+
+## CLASS: CONSTRUCT
+CreatureClass=Construct
+AttackRate=1
+GoodSaves=
+
+## CLASS: DRAGON
+CreatureClass=Dragon
+AttackRate=1
+GoodSaves=Fort, Ref, Will
+
+## CLASS: AIR ELEMENTAL
+CreatureClass=Elemental (Air)
+AttackRate=1
+GoodSaves=Ref
+
+## CLASS: FIRE ELEMENTAL
+CreatureClass=Elemental (Fire)
+AttackRate=1
+GoodSaves=Ref
+
+## CLASS: EARTH ELEMENTAL
+CreatureClass=Elemental (Earth)
+AttackRate=1
+GoodSaves=Fort
+
+## CLASS: WATER ELEMENTAL
+CreatureClass=Elemental (Water)
+AttackRate=1
+GoodSaves=Fort
+
+## CLASS: FEY
+CreatureClass=Fey
+AttackRate=.5
+GoodSaves=Ref, Will
+
+## CLASS: GIANT
+CreatureClass=Giant
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: HUMANOID
+CreatureClass=Humanoid
+AttackRate=.75
+GoodSaves=
+
+## CLASS: MAGICAL BEAST
+CreatureClass=Magical Beast
+AttackRate=1
+GoodSaves=Fort, Ref
+
+## CLASS: MONSTROUS HUMANIOD
+CreatureClass=Monstrous Humanoid
+AttackRate=1
+GoodSaves=Ref, Will
+
+## CLASS: OOZE
+CreatureClass=Ooze
+AttackRate=.75
+GoodSaves=
+
+## CLASS: OUTSIDER
+CreatureClass=Outsider
+AttackRate=1
+GoodSaves=Fort, Ref, Will
+
+## CLASS: PLANT
+CreatureClass=Plant
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: UNDEAD
+CreatureClass=Undead
+AttackRate=.75
+GoodSaves=Will
+
+## CLASS: VERMIN
+CreatureClass=Vermin
+AttackRate=.75
+GoodSaves=Fort
+
+
+

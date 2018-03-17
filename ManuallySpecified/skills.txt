@@ -13,9 +13,44 @@ Mysticism|WIS|General
 Perception|WIS|General
 Physical Science|INT|General
 Piloting|DEX|General
-Profession: CHA|CHA|General
-Profession: INT|INT|General
-Profession: WIS|WIS|General
+Profession: Actor|CHA|Profession
+Profession: Artist|CHA|Profession
+Profession: Comedian|CHA|Profession
+Profession: Con Artist|CHA|Profession
+Profession: Courtesan|CHA|Profession
+Profession: Dancer|CHA|Profession
+Profession: Musician|CHA|Profession
+Profession: Orator|CHA|Profession
+Profession: Poet|CHA|Profession
+Profession: Politician|CHA|Profession
+Profession: Video Personality|CHA|Profession
+Profession: Writer|CHA|Profession
+Profession: Accountant|INT|Profession
+Profession: Archaeologist|INT|Profession
+Profession: Architect|INT|Profession
+Profession: Corporate Professional|INT|Profession
+Profession: Electrician|INT|Profession
+Profession: Lab Technician|INT|Profession
+Profession: Lawyer|INT|Profession
+Profession: Mathematician|INT|Profession
+Profession: Philosopher|INT|Profession
+Profession: Professor|INT|Profession
+Profession: Psychologist|INT|Profession
+Profession: Vidgamer|INT|Profession
+Profession: Bounty Hunter|WIS|Profession
+Profession: Cook|WIS|Profession
+Profession: Counselor|WIS|Profession
+Profession: Dockworker|WIS|Profession
+Profession: Farmer|WIS|Profession
+Profession: Gambler|WIS|Profession
+Profession: General Contractor|WIS|Profession
+Profession: Herbalist|WIS|Profession
+Profession: Maintenance Worker|WIS|Profession
+Profession: Manager|WIS|Profession
+Profession: Mercenary|WIS|Profession
+Profession: Merchant|WIS|/Profession
+Profession: Miner|WIS|Profession
+Profession: Smuggler|WIS|Profession
 Sense Motive|WIS|General
 Sleight of Hand|DEX|General
 Stealth|DEX|General

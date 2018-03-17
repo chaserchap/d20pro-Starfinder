@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">69154942-1b99-465a-abdd-58bda077624c</id>
+  <idInLib class="int">1106266892</idInLib>
+  <level class="int">18</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You pull determination from your victories with your squad, no matter how bloody. After participating in at least three combats in a day in which you defeat distinct groups of significant foes, you recover 1 Resolve Point. After participating in six such combats in a day, you recover a second Resolve Point.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Commander</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Mercenary</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">ABSENT_IN_LIB</syncState>
+  <tab class="string">Theme Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>
