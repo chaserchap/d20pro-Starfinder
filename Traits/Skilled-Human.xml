@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">false</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">aa9a94af-f089-44be-aedb-42409370f6c5</id>
+  <idInLib class="int">-667999412</idInLib>
+  <level class="int">0</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;Humans gain an additional skill rank at 1st level and each level thereafter.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Skilled</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Human</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">ABSENT_IN_LIB</syncState>
+  <tab class="string">Racial Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

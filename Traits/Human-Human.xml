@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">false</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">cbf189ac-3cdb-465e-8257-4ed4afb999b5</id>
+  <idInLib class="int">-1842363524</idInLib>
+  <level class="int">0</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;Ambitious, creative, and endlessly curious, humans have shown more drive to explore their system and the universe beyond than any of their neighbor races—for better and for worse. They’ve helped usher in a new era of system-wide communication and organization and are admired for their passion and tenacity, but their tendency to shoot first and think about the consequences later can make them a liability for those races otherwise inclined to work with them.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Ability Adjustments&lt;/span&gt;&amp;nbsp;+2 to any 1 Ability&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Hit Points&lt;/span&gt;: 4&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Size and Type: &amp;nbsp;&lt;/span&gt;Humans are Medium humanoids and have the human subtype.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Human</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Human</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">ABSENT_IN_LIB</syncState>
+  <tab class="string">Racial Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

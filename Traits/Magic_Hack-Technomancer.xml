@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">a49ba7c3-a07b-47c5-9a37-e71bbc7ee79b</id>
+  <idInLib class="int">-1441267103</idInLib>
+  <level class="int">2</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You have carefully studied the forces that define magic and can manipulate them. You learn your first magic hack at 2nd level, and you learn an additional magic hack every 3 levels thereafter. When casting a spell, you can apply no more than one magic hack that affects the attributes of a spell (such as distant spell or extended spell). If a magic hack allows a saving throw to resist its effects, the DC is equal to 10 + half your technomancer level + your&amp;nbsp;&lt;a href=&quot;http://www.starjammersrd.com/the-basics/ability-scores/#Intelligence_Int&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Intelligence&lt;/a&gt;&amp;nbsp;modifier. The list of magic hacks appears starting on page 120.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Magic Hack</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Technomancer</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">ABSENT_IN_LIB</syncState>
+  <tab class="string">Class Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

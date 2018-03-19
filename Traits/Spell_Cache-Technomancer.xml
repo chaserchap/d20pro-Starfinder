@@ -1,0 +1,18 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">0308434c-a65b-4dc0-b0ed-217dd9a65f69</id>
+  <idInLib class="int">978339896</idInLib>
+  <level class="int">1</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;As the culmination of your early study of the fundamental forces of the galaxy, you have created a spell cache that allows you to store and access spells. Your spell cache could be a device such as a handheld&amp;nbsp;&lt;a href=&quot;http://www.starjammersrd.com/equipment/computers/&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;computer&lt;/a&gt;&amp;nbsp;or technological implant; an item such as a ring or staff; or a symbol such as a brand, tattoo, or other&amp;nbsp;&lt;a href=&quot;http://www.starjammersrd.com/game-mastering/combat/#Permanent&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;permanent&lt;/a&gt;&amp;nbsp;modification to your body. While you don’t need your spell cache to cast your spells, once per day, you can activate your spell cache to cast any one spell you know and are capable of casting, even if you’ve expended all your spell slots for that spell’s level.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;If your spell cache is damaged, it is restored to full&amp;nbsp;&lt;a href=&quot;http://www.starjammersrd.com/game-mastering/combat/#Hit_Points&quot; style=&quot;box-sizing: border-box; background-color: transparent; color: rgb(48, 87, 164); text-decoration: none;&quot;&gt;Hit Points&lt;/a&gt;&amp;nbsp;the next time you prepare spells. If the spell cache is lost or destroyed, you can replace it after 1 week with a special ritual that takes 8 hours to complete.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Spell Cache</name>
+  <pools class="list"/>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Technomancer</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">ABSENT_IN_LIB</syncState>
+  <tab class="string">Class Feature</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>

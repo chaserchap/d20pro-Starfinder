@@ -1,0 +1,46 @@
+<com.mindgene.d20.common.game.trait.GenericTrait>
+  <availableUses class="byte">0</availableUses>
+  <editable class="boolean">true</editable>
+  <enabled class="boolean">true</enabled>
+  <encrypted class="boolean">false</encrypted>
+  <equipped class="boolean">false</equipped>
+  <id class="string">e3e252ab-c10d-4111-ab89-72321c9d1149</id>
+  <idInLib class="int">104333292</idInLib>
+  <level class="int">0</level>
+  <longDescription class="string">&lt;html dir=&quot;ltr&quot;&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;p class=&quot;description&quot; style=&quot;box-sizing: border-box; margin: 0px 0px 10px; font-style: italic; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;You are Adept at creating quick, temporary cover.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Prerequisites&lt;/span&gt;: Engineering 1 rank.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Benefit&lt;/span&gt;: As a move action, you can stack and reinforce objects that are too small or too fragile to provide cover into a single square of adjacent cover. The GM has discretion over whether enough such objects are nearby to allow you to use this ability, but most urban and wilderness settings not specifically described as empty or barren have enough such material to allow at least one such temporary barricade to be built. The barricade grants partial cover against attacks with line of effect that pass through it. If the barricade is in a square that already granted partial cover, it instead grants normal cover.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;The barricade is temporary and not particularly durable. When determining its hardness and Hit Points, treat it as a piece of equipment with an item level equal to half your total ranks in Engineering (minimum 1st level). Additionally, once it or a creature adjacent to it is hit by an attack, the barricade collapses at the beginning of your turn in 1d4 rounds (unless the barricade is destroyed completely by the attack). There isn’t normally enough material for you to build a second barricade in exactly the same space unless you are in a particularly crowded area (as determined by the GM).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</longDescription>
+  <maxUses class="byte">0</maxUses>
+  <name class="string">Barricade</name>
+  <pools class="list">
+    <com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
+      <ammunitionType class="string">none</ammunitionType>
+      <castAsClass class="string">None</castAsClass>
+      <castAsLevel class="int">0</castAsLevel>
+      <consumable class="boolean">false</consumable>
+      <customCost class="list"/>
+      <editable class="boolean">true</editable>
+      <enabled class="boolean">true</enabled>
+      <encrypted class="boolean">false</encrypted>
+      <features class="list">
+        <com.d20pro.temp_extraction.plugin.feature.model.Feature>
+          <cost class="int">0</cost>
+          <featureName class="string">Barricade</featureName>
+          <featureType class="string">Feature</featureType>
+          <level class="byte">0</level>
+        </com.d20pro.temp_extraction.plugin.feature.model.Feature>
+      </features>
+      <fetchFeaturesFromLibrary class="boolean">true</fetchFeaturesFromLibrary>
+      <idInLib class="int">0</idInLib>
+      <isInitialized class="boolean">false</isInitialized>
+      <name class="string">At Will</name>
+      <remainingCharges class="int">10</remainingCharges>
+      <templateName class="string">At Will</templateName>
+      <totalCharges class="int">10</totalCharges>
+      <usageType class="com.d20pro.temp_extraction.plugin.feature.model.enums.PoolUsageTypes">AT_WILL</usageType>
+      <useHigherLevel class="boolean">false</useHigherLevel>
+    </com.d20pro.temp_extraction.plugin.feature.model.pool.Pool>
+  </pools>
+  <product class="string">Starfinder Core</product>
+  <source class="string">Combat Feat</source>
+  <syncState class="com.d20pro.temp_extraction.plugin.feature.model.sync.SyncState">ABSENT_IN_LIB</syncState>
+  <tab class="string">Combat Feat</tab>
+</com.mindgene.d20.common.game.trait.GenericTrait>
